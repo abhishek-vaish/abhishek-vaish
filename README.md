@@ -15,15 +15,11 @@
 
 - 💬 Ask me about **Data Engineering, Web Development, JavaScript**
 
-- 📫 How to reach me **https://www.linkedin.com/in/abhishek-vaish**
+- 📫 How to reach me <a href="https://www.linkedin.com/in/abhishek-vaish"><b>Let's connect on LinkedIn</b></a>
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/abhishek-vaish/overlay/1635532685706/single-media-viewer?type=DOCUMENT&profileId=ACoAACbOiOEBDXajpdckG2aWAfJN665GYwK6DjQ&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BUyrgtQZpQk%2BX6yUmusND%2FQ%3D%3D](https://www.linkedin.com/in/abhishek-vaish/overlay/1635532685706/single-media-viewer?type=DOCUMENT&profileId=ACoAACbOiOEBDXajpdckG2aWAfJN665GYwK6DjQ&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BUyrgtQZpQk%2BX6yUmusND%2FQ%3D%3D)
+- 📄 Know about my experiences [Resume](https://www.linkedin.com/in/abhishek-vaish/overlay/1635532685706/single-media-viewer?type=DOCUMENT&profileId=ACoAACbOiOEBDXajpdckG2aWAfJN665GYwK6DjQ&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BUyrgtQZpQk%2BX6yUmusND%2FQ%3D%3D)
 
 - ⚡ Fun fact **I don't know swimming**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
